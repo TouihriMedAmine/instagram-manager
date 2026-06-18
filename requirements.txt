@@ -1,3 +1,4 @@
 instagrapi
 flask
 pytest
+gunicorn
